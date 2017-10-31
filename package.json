@@ -18,6 +18,8 @@
   "homepage": "https://github.com/bysanches/entria-backend-challenge#readme",
   "dependencies": {
     "koa": "^2.3.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-router": "^7.2.1",
     "mongodb": "^2.2.33",
     "mongoose": "^4.12.5"
   }
